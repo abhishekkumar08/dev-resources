@@ -1,6 +1,8 @@
 # DEV NOTES
 
-## Topics
+
+<h1>Topics<h1>
+
 
 ### INDEX
 
@@ -31,19 +33,33 @@
 - [Y](#Y)
 - [Z](#Z)
 
+<hr>
+
 ### <a name="A"></a>A
+
+<hr>
 
 ### <a name="B"></a>B
 
+<hr>
+
 ### <a name="C"></a>C
 
+<hr>
+
 ### <a name="D"></a>D
+
+<hr>
 
 ### <a name="E"></a>E
 
 - `express-graphql` is used to create a graphql server app based on a schema and resolver functions. Therefore, when you send a GraphQL query or mutation request, the middleware will be called and it runs the appropriate GraphQL operation
 
+<hr>
+
 ### <a name="F"></a>F
+
+<hr>
 
 ### <a name="G"></a>G
 
@@ -53,15 +69,27 @@
 
 - GraphQL - GraphQL is an open-source query and manipulation language for APIs, and a runtime for fulfilling those queries with your existing data. It enables front-end developers to write queries that return the exact data you want. It uses a syntax that describes how to ask for data and is generally used to load data from a server to a client. GraphQL is language-agnostic as it can work with any server-side language. GraphQL aims to speed up development, improve the developer experience and offer better tooling. It’s often seen as an alternative to REST when building web applications.
 
+<hr>
+
 ### <a name="H"></a>H
+
+<hr>
 
 ### <a name="I"></a>I
 
+<hr>
+
 ### <a name="J"></a>J
+
+<hr>
 
 ### <a name="K"></a>K
 
+<hr>
+
 ### <a name="L"></a>L
+
+<hr>
 
 ### <a name="M">M</a>
 
@@ -69,24 +97,48 @@
 
 - Mongoose - Moongoose, is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
 
+<hr>
+
 ### <a name="O"></a>O
+
+<hr>
 
 ### <a name="P"></a>P
 
+<hr>
+
 ### <a name="Q"></a>Q
+
+<hr>
 
 ### <a name="R"></a>R
 
+<hr>
+
 ### <a name="S"></a>S
+
+<hr>
 
 ### <a name="T"></a>T
 
+<hr>
+
 ### <a name="U"></a>U
+
+<hr>
 
 ### <a name="W"></a>W
 
+<hr>
+
 ### <a name="X"></a>X
+
+<hr>
 
 ### <a name="Y"></a>Y
 
+<hr>
+
 ### <a name="Z"></a>Z
+
+<hr>
