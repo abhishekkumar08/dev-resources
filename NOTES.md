@@ -1,8 +1,6 @@
 # DEV NOTES
 
-
 <h1>Topics<h1>
-
 
 ### INDEX
 
